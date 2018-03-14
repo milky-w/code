@@ -125,4 +125,4 @@ int main() {
 	printf("%d\n", sum - tmp);
 	return 0;
 }
-```c++
+```
